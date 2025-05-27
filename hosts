@@ -1,0 +1,153 @@
+# ====== 视频娱乐类 ====== #
+# 哔哩哔哩
+0.0.0.0 www.bilibili.com
+0.0.0.0 bilibili.com
+0.0.0.0 interface.bilibili.com
+0.0.0.0 api.bilibili.com
+0.0.0.0 live.bilibili.com
+
+# YouTube
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtubei.googleapis.com
+
+# 腾讯视频
+0.0.0.0 v.qq.com
+0.0.0.0 access.video.qq.com
+
+# 优酷/爱奇艺
+0.0.0.0 www.youku.com
+0.0.0.0 www.iqiyi.com
+
+# ====== 社交与资讯 ====== #
+# 微博
+0.0.0.0 weibo.com
+0.0.0.0 www.weibo.com
+0.0.0.0 api.weibo.com
+
+# 知乎
+0.0.0.0 www.zhihu.com
+0.0.0.0 api.zhihu.com
+
+# 豆瓣
+0.0.0.0 www.douban.com
+0.0.0.0 movie.douban.com
+
+# ====== 软件服务类 ====== #
+# 火狐相关
+0.0.0.0 www.mozilla.org
+0.0.0.0 addons.mozilla.org
+0.0.0.0 firefox.settings.services.mozilla.com
+
+# 腾讯软件中心
+0.0.0.0 pc.qq.com
+0.0.0.0 soft.qq.com
+
+# 微软商店
+0.0.0.0 store.edge.skype.com
+0.0.0.0 store-images.s-microsoft.com
+
+# ====== 购物与支付 ====== #
+0.0.0.0 www.taobao.com       # 淘宝
+0.0.0.0 www.jd.com          # 京东
+0.0.0.0 pay.weixin.qq.com    # 微信支付
+
+# ======== 搜索引擎屏蔽清单 ======== #
+# 百度系列（含子域名）
+0.0.0.0 www.baidu.com
+0.0.0.0 baidu.com
+0.0.0.0 m.baidu.com
+0.0.0.0 zhidao.baidu.com
+0.0.0.0 tieba.baidu.com
+0.0.0.0 map.baidu.com
+0.0.0.0 pan.baidu.com
+0.0.0.0 image.baidu.com
+
+# 搜狗搜索
+0.0.0.0 www.sogou.com
+0.0.0.0 sogou.com
+0.0.0.0 wap.sogou.com
+
+# 必应Bing
+0.0.0.0 www.bing.com
+0.0.0.0 bing.com
+0.0.0.0 cn.bing.com
+0.0.0.0 global.bing.com
+
+# 其他国内引擎
+0.0.0.0 www.so.com          # 360搜索
+0.0.0.0 so.com
+0.0.0.0 www.sm.cn           # 神马搜索
+0.0.0.0 sm.cn
+
+# 国际引擎
+0.0.0.0 www.google.com      # Google
+0.0.0.0 google.com
+0.0.0.0 www.google.cn
+0.0.0.0 www.yandex.com      # Yandex
+0.0.0.0 yandex.com
+0.0.0.0 duckduckgo.com      # DuckDuckGo
+# ====== 通用下载平台 ====== #
+# 腾讯软件中心
+0.0.0.0 pc.qq.com
+0.0.0.0 dldir1.qq.com      # 核心下载服务器
+0.0.0.0 dldir2.qq.com
+0.0.0.0 dldir3.qq.com
+
+# 迅雷相关
+0.0.0.0 down.sandai.net    # 迅雷P2P服务器
+0.0.0.0 upgrade.xl9.xunlei.com
+0.0.0.0 hub5btmain.sandai.net
+
+# 第三方下载站
+0.0.0.0 www.onlinedown.net   # 华军软件园
+0.0.0.0 www.skycn.com        # 天空下载
+0.0.0.0 www.cr173.com        # 绿盟
+0.0.0.0 dl.pconline.com.cn   # 太平洋下载
+
+# ====== 社交娱乐软件 ====== #
+# 微信/QQ系列
+0.0.0.0 dldir1.qq.com/weixin/WeChatSetup.exe
+0.0.0.0 im.qq.com/pcqq       # QQ安装包
+0.0.0.0 qd.qq.com            # 腾讯应用宝
+
+# 抖音/快手
+0.0.0.0 www.douyin.com/download
+0.0.0.0 app.kuaishou.com
+
+# ====== 游戏平台 ====== #
+# Steam
+0.0.0.0 store.steampowered.com
+0.0.0.0 media.steampowered.com
+0.0.0.0 client-download.steampowered.com
+
+# 网易游戏
+0.0.0.0 dl.163.com
+0.0.0.0 game.gw.163.com
+
+# ====== 生产力工具 ====== #
+# WPS办公
+0.0.0.0 wpscdn-cloud.4000915678.cn  # 文档云存储
+0.0.0.0 wdl1.cache.wps.cn           # 安装包下载
+
+# Adobe全家桶
+0.0.0.0 swupmf.adobe.com          # Creative Cloud更新
+0.0.0.0 ccdl.adobe.com            # 软件包分发
+
+# ====== 系统工具 ====== #
+# 驱动精灵/360驱动
+0.0.0.0 www.drivergenius.com
+0.0.0.0 dl.360safe.com/drvmgr
+
+# 鲁大师
+0.0.0.0 www.ludashi.com
+0.0.0.0 down.ludashi.com
+
+# ====== 开发者工具 ====== #
+# GitHub Releases（慎用）
+0.0.0.0 github-releases.githubusercontent.com
+0.0.0.0 objects.githubusercontent.com
+
+# JetBrains工具
+0.0.0.0 download.jetbrains.com
+0.0.0.0 downloads-cf.jetbrains.com
